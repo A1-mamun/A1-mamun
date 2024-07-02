@@ -33,7 +33,13 @@ Here are some ideas to get you started:
    <picture><img title="CSS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/css.png"/></picture>&nbsp;
    <picture><img title="TailwindCss" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/tailwind.png"/></picture>&nbsp;
    <picture><img title="JavaScript" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/JavaScript.png"/></picture>&nbsp;
+   <picture><img title="C" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/c.png"/></picture>&nbsp;
+   <picture><img title="C++" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/cpp.png"/></picture>&nbsp;
    <picture><img title="ReactJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/react.png"/></picture>&nbsp;
+   <picture><img title="NodeJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/node.png"/></picture>&nbsp;
+   <picture><img title="ExpressJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/express.png"/></picture>&nbsp;
+   <picture><img title="MongoDb" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/mongo.png"/></picture>&nbsp;
+   <picture><img title="Firebase" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/firebase.png"/></picture>&nbsp;
 <p/>
 
 ## 👁️ Overview
