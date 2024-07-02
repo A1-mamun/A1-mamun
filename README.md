@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-  <picture><img width="60%" src="https://streak-stats.demolab.com/A1-mamun=DenverCoder1" /></picture>
+  <picture><img width="60%" src="https://streak-stats.demolab.com?user=&theme=dark-minimalist&border_radius=5" alt="GitHub Streak" /></picture>
 <p/>
