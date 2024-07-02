@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <picture><img width="60%" src="https://streak-stats.demolab.com/A1-mamun=DenverCoder1" /></picture>
+<p/>
