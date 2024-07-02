@@ -21,7 +21,19 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-   <picture><img width="60%" src="https://streak-stats.demolab.com?user=A1-mamun&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/></picture> <br/>
+   <picture><img width="60%" src="https://streak-stats.demolab.com?user=A1-mamun&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/></picture>
+<p/>
+
+## 🖥️ Technologies that I know
+
+<br/>
+
+<p align="center">
+   <picture><img title="HTML" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/HTML.png"/></picture>&nbsp;
+   <picture><img title="CSS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/css.png"/></picture>&nbsp;
+   <picture><img title="TailwindCss" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/tailwind.png"/></picture>&nbsp;
+   <picture><img title="JavaScript" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/JavaScript.png"/></picture>&nbsp;
+   <picture><img title="ReactJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/react.png"/></picture>&nbsp;
 <p/>
 
 ## 👁️ Overview
