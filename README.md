@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    <picture><img width="60%" src="https://streak-stats.demolab.com?user=A1-mamun&theme=dark-minimalist&border_radius=5" alt="GitHub Streak"/></picture> <br/>
 <p/>
 
-## 👁️: Overview
+## 👁️ Overview
 <br/>
 
 - ### 🔭 I’m currently working on - Some of my projects
