@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/A1-mamun=DenverCoder1)](https://git.io/streak-stats)
 
 ## Hi there 👋
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-   <picture><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=A1-mamun&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /></picture> <br/>
+   <picture><img width="60%" src="https://streak-stats.demolab.com?user=&theme=dark-minimalist&border_radius=5" alt="GitHub Streak" /></picture> <br/>
 <p/>
