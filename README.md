@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/A1-mamunDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=A1-mamun&theme=dark-minimalist&border_radius=5)](https://git.io/streak-stats)
 
 ## Hi there 👋
 
