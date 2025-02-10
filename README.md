@@ -25,13 +25,6 @@
    <picture><img title="Firebase" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/firebase.png"/></picture>&nbsp;
 <p/>
 
-### 🏆 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A1-mamun/A1-mamun/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A1-mamun/A1-mamun/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 ## 👁️ Overview
 <br/>
