@@ -20,6 +20,7 @@
 <picture><img title="C" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/c.png"/></picture>&nbsp;
 <picture><img title="C++" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/cpp.png"/></picture>&nbsp;
 <picture><img title="ReactJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/react.png"/></picture>&nbsp;
+<picture><img title="NextJS" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/></picture>&nbsp;
 <picture><img title="NodeJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/node.png"/></picture>&nbsp;
 <picture><img title="ExpressJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/express.png"/></picture>&nbsp;
 <picture><img title="MongoDb" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/mongo.png"/></picture>&nbsp;
