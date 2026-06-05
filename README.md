@@ -23,7 +23,7 @@
    <picture><img title="ExpressJS" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/express.png"/></picture>&nbsp;
    <picture><img title="MongoDb" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/mongo.png"/></picture>&nbsp;
    <picture><img title="Firebase" src="https://github.com/A1-mamun/A1-mamun/blob/main/icon/firebase.png"/></picture>&nbsp;
-    <picture><img title="Prisma" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></picture>&nbsp;
+    <picture><img title="Prisma" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></picture>&nbsp;
 <p/>
 
 ## 👁️ Overview
